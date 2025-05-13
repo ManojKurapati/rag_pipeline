@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 import requests
 
 # STEP 1: Add your API key here
-API_KEY = "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"  # Replace with your actual API key
+API_KEY = "perplexity_key"  # Replace with your actual API key
 
 # STEP 2: PDF Text Extraction
 def extract_text_from_pdf(file_path):
